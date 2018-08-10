@@ -1,0 +1,64 @@
+
+00b362471399:
+  hide_if_away: false
+  icon:
+  mac: 00:B3:62:47:13:99
+  name: Sophie Telefoon
+  picture:
+  track: true
+
+905c44c8cf26:
+  hide_if_away: false
+  icon:
+  mac: 90:5C:44:C8:CF:26
+  name: 905c44c8cf26
+  picture:
+  track: false
+
+dcefcabcf5ff:
+  hide_if_away: false
+  icon:
+  mac: DC:EF:CA:BC:F5:FF
+  name: Ikea Tradfri
+  picture:
+  track: false
+
+089e08be205f:
+  hide_if_away: false
+  icon:
+  mac: 08:9E:08:BE:20:5F
+  name: Chromecast 
+  picture:
+  track: false
+
+c0d3c0dcf7d5:
+  hide_if_away: false
+  icon:
+  mac: C0:D3:C0:DC:F7:D5
+  name: Tablet Samsung
+  picture:
+  track: false
+
+88759871d725:
+  hide_if_away: false
+  icon:
+  mac: 88:75:98:71:D7:25
+  name: Dennis Telefoon
+  picture:
+  track: true
+
+dc68eb1121bb:
+  hide_if_away: false
+  icon:
+  mac: DC:68:EB:11:21:BB
+  name: dc68eb1121bb
+  picture:
+  track: false
+
+10f1f24482e8:
+  hide_if_away: false
+  icon:
+  mac: 10:F1:F2:44:82:E8
+  name: Wendy Telefoon
+  picture:
+  track: true

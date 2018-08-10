@@ -1,0 +1,10 @@
+2018-08-10 08:05:10 WARNING (Recorder) [homeassistant.components.recorder] Ended unfinished session (id=18 from 2018-08-10 06:03:36.446677)
+2018-08-10 08:05:12 WARNING (MainThread) [homeassistant.setup] Setup of recorder is taking over 10 seconds.
+2018-08-10 08:05:13 WARNING (MainThread) [homeassistant.setup] Setup of frontend is taking over 10 seconds.
+2018-08-10 08:05:28 WARNING (MainThread) [homeassistant.setup] Setup of config is taking over 10 seconds.
+2018-08-10 08:06:47 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
+2018-08-10 08:07:06 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
+2018-08-10 08:07:14 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
+2018-08-10 08:07:22 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
+2018-08-10 08:09:45 WARNING (MainThread) [homeassistant.components.device_tracker] Updating device list from nmap_tracker took longer than the scheduled scan interval 0:00:12
+2018-08-10 08:26:25 WARNING (MainThread) [homeassistant.components.device_tracker] Updating device list from nmap_tracker took longer than the scheduled scan interval 0:00:12

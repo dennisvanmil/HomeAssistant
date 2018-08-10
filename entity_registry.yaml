@@ -1,0 +1,40 @@
+light.badkamer_licht:
+  config_entry_id:
+  name:
+  platform: tradfri
+  unique_id: light-7e1861520440001e-65540
+light.bathroom:
+  config_entry_id:
+  name:
+  platform: tradfri
+  unique_id: group-7e1861520440001e-131075
+media_player.family_room:
+  config_entry_id: 02ff40511a9e48488c4b1b889889e01b
+  name:
+  platform: cast
+  unique_id: d71c7e21-3d71-66be-293e-1ef447ee25e1
+sensor.br_humidity:
+  config_entry_id:
+  name:
+  platform: buienradar
+  unique_id: 5.31286851.707694humidity
+sensor.br_pressure:
+  config_entry_id:
+  name:
+  platform: buienradar
+  unique_id: 5.31286851.707694pressure
+sensor.br_temperature:
+  config_entry_id:
+  name:
+  platform: buienradar
+  unique_id: 5.31286851.707694temperature
+sensor.br_symbol:
+  config_entry_id:
+  name:
+  platform: buienradar
+  unique_id: 5.31286851.707694symbol
+sensor.br_wind_speed:
+  config_entry_id:
+  name:
+  platform: buienradar
+  unique_id: 5.31286851.707694windspeed
